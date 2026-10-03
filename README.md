@@ -2,13 +2,22 @@
 
 > **Read-only archive of released versions of clarkwinkelmann/flarum-ext-follow-tags-prompt.** Not for installation: use [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-follow-tags-prompt) or the [upstream repository](https://github.com/clarkwinkelmann/flarum-ext-follow-tags-prompt).
 
-**0** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-follow-tags-prompt/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.5`
+**10** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-follow-tags-prompt/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2020-09-09 | `>=0.1.0-beta.13 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-follow-tags-prompt/tree/archive/v0.1.0) |
+| `0.1.1` | 2020-09-21 | `>=0.1.0-beta.13 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-follow-tags-prompt/tree/archive/v0.1.1) |
+| `0.1.2` | 2020-09-23 | `>=0.1.0-beta.13 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-follow-tags-prompt/tree/archive/v0.1.2) |
+| `0.1.3` | 2020-10-14 | `>=0.1.0-beta.13 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-follow-tags-prompt/tree/archive/v0.1.3) |
+| `0.1.4` | 2020-11-24 | `>=0.1.0-beta.13 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-follow-tags-prompt/tree/archive/v0.1.4) |
+| `0.2.0` | 2021-01-12 | `>=0.1.0-beta.15 <0.1.0-beta.16` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-follow-tags-prompt/tree/archive/v0.2.0) |
+| `0.2.1` | 2021-03-22 | `>=0.1.0-beta.16 <0.1.0-beta.17` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-follow-tags-prompt/tree/archive/v0.2.1) |
+| `1.0.0` | 2021-06-17 | `^1.0` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-follow-tags-prompt/tree/archive/v1.0.0) |
+| `1.0.1` | 2022-03-31 | `^1.2` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-follow-tags-prompt/tree/archive/v1.0.1) |
+| `1.1.0` | 2023-11-02 | `^1.5` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-follow-tags-prompt/tree/archive/v1.1.0) |
 
 Catalog entry: [packages/clarkwinkelmann-flarum-ext-follow-tags-prompt.json](https://github.com/flarchive/archive-index/blob/main/packages/clarkwinkelmann-flarum-ext-follow-tags-prompt.json)
 
